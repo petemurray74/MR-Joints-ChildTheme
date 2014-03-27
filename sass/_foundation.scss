@@ -1,0 +1,49 @@
+// Foundation by ZURB
+// foundation.zurb.com
+// Licensed under MIT Open Source
+
+// Make sure the charset is set appropriately
+@charset "UTF-8";
+
+// Behold, here are all the Foundation components.
+@import
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/grid",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/block-grid",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/forms",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/inline-lists",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/labels",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/pagination",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/panels",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/side-nav",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/sub-nav",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/tables",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/top-bar",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/type",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/offcanvas",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/visibility";
+
+  /*
+  STUFF I'VE DISABLED
+   "../../JointsWP/bower_components/foundation/scss/foundation/components/accordion",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/alert-boxes",
+   "../../JointsWP/bower_components/foundation/scss/foundation/components/breadcrumbs",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/button-groups",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/buttons",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/clearing",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/dropdown",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/dropdown-buttons",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/flex-video",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/joyride",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/keystrokes",
+	  "../../JointsWP/bower_components/foundation/scss/foundation/components/magellan",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/orbit",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/pricing-tables",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/progress-bars",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/range-slider",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/reveal",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/split-buttons",
+	  "../../JointsWP/bower_components/foundation/scss/foundation/components/tabs",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/thumbs",
+  "../../JointsWP/bower_components/foundation/scss/foundation/components/tooltips",
+    "../../JointsWP/bower_components/foundation/scss/foundation/components/switch",
+  */

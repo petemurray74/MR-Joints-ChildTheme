@@ -1,0 +1,118 @@
+2014-03-27 17:04:12     error sass/style.scss (Line 52: File to import not found or unreadable: medium.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-03-27 17:04:12    create stylesheets/style.css 
+2014-03-27 17:05:47    remove .sass-cache/ 
+2014-03-27 17:05:47 directory ../css/ 
+2014-03-27 17:05:47     error sass/style.scss (Line 52: File to import not found or unreadable: medium.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-03-27 17:05:47    create ../css/style.css 
+2014-03-27 17:05:49     error sass/style.scss (Line 52: File to import not found or unreadable: medium.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-03-27 17:05:49 overwrite ../css/style.css 
+2014-03-27 17:06:55     error sass/style.scss (Line 27: File to import not found or unreadable: ../../bower_components/foundation/scss/foundation.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-03-27 17:06:55 overwrite ../css/style.css 
+2014-03-27 17:07:26 overwrite ../css/style.css 
+2014-03-27 17:08:12 identical ../css/style.css 
+2014-03-27 17:08:18    remove .sass-cache/ 
+2014-03-27 17:08:18    remove ../css/style.css 
+2014-03-27 17:08:26    create ../css/style.css 
+2014-03-27 17:10:54    remove .sass-cache/ 
+2014-03-27 17:11:55 overwrite css/style.css 
+2014-03-27 17:15:32     error sass/foundation.scss (Line 10: File to import not found or unreadable: foundation/components/grid.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-03-27 17:15:32    create css/foundation.css 
+2014-03-27 17:15:36 identical css/style.css 
+2014-03-27 17:16:02     error sass/foundation.scss (Line 10: File to import not found or unreadable: foundation/components/grid.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-03-27 17:16:02 overwrite css/foundation.css 
+2014-03-27 17:16:02     error sass/style.scss (Line 56 of sass/../../JointsWP/library/scss/joints/_gallery.scss: Undefined variable: "$include-html-grid-classes".)
+2014-03-27 17:16:02 overwrite css/style.css 
+2014-03-27 17:17:54 overwrite css/foundation.css 
+2014-03-27 17:17:54     error sass/style.scss (Line 56 of sass/../../JointsWP/library/scss/joints/_gallery.scss: Undefined variable: "$include-html-grid-classes".)
+2014-03-27 17:17:54 identical css/style.css 
+2014-03-27 17:18:26     error sass/style.scss (Line 56 of sass/../../JointsWP/library/scss/joints/_gallery.scss: Undefined variable: "$include-html-grid-classes".)
+2014-03-27 17:18:26 identical css/style.css 
+2014-03-27 17:21:07     error sass/style.scss (Line 56 of sass/../../JointsWP/library/scss/joints/_gallery.scss: Undefined variable: "$include-html-grid-classes".)
+2014-03-27 17:21:07    create css/style.css 
+2014-03-27 17:22:38 overwrite css/style.css 
+2014-03-27 17:26:12 identical css/style.css 
+2014-03-27 17:27:23    remove .sass-cache/ 
+2014-03-27 17:27:23 directory ../../JointsWP/library/css/ 
+2014-03-27 17:27:31    create ../../JointsWP/library/css/style.css 
+2014-03-27 17:29:13    remove .sass-cache/ 
+2014-03-27 17:29:13    remove ../JointsWP/library/css/style.css 
+2014-03-27 17:29:21    create ../JointsWP/library/css/style.css 
+2014-03-27 20:09:12 overwrite ../JointsWP/library/css/style.css 
+2014-03-27 20:10:15    remove .sass-cache/ 
+2014-03-27 20:10:15    remove ../JointsWP/library/css/style.css 
+2014-03-27 20:10:20    create ../JointsWP/library/css/style.css 
+2014-03-27 20:11:12 identical ../JointsWP/library/css/style.css 
+2014-03-27 20:11:26 identical ../JointsWP/library/css/style.css 
+2014-03-27 20:11:30 identical ../JointsWP/library/css/style.css 
+2014-03-27 20:11:53 identical ../JointsWP/library/css/style.css 
+2014-03-27 20:12:17 identical ../JointsWP/library/css/style.css 
+2014-03-27 20:12:23    remove .sass-cache/ 
+2014-03-27 20:12:23    remove ../JointsWP/library/css/style.css 
+2014-03-27 20:12:28    create ../JointsWP/library/css/style.css 
+2014-03-27 21:11:26 overwrite ../JointsWP/library/css/style.css 
