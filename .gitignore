@@ -216,3 +216,6 @@ pip-log.txt
 *.scssc
 compass_app_log.txt
 compass_app_log.txt
+*.jpg
+*.png
+compass_app_log.txt
