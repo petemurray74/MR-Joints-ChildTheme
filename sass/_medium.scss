@@ -1,0 +1,91 @@
+/******************************************************************
+
+Stylesheet: Nediun Stylesheet
+
+Styles apply to 40.063em and up.
+
+******************************************************************/
+
+
+/*********************
+HEADER STYLES
+*********************/
+
+.pic-row
+{
+padding:0;
+}
+	
+/*********************
+NAVIGATION STYLES
+*********************/
+
+// make main menu flush
+.nav1
+{
+padding:0;
+}
+
+.top-bar {
+padding-left:rem-calc(18)
+}
+
+
+/*********************
+POSTS & CONTENT STYLES
+*********************/
+
+/* entry content */
+.entry-content {
+			
+	
+	/* at this larger size, we can start to align images */
+	.alignleft, img.alignleft { 
+		margin-right: 1.5em; 
+		display: inline; 
+		float: left; 
+	}
+	.alignright, img.alignright { 
+		margin-left: 1.5em; 
+		display: inline; 
+		float: right; 
+	}
+	.aligncenter, img.aligncenter { 
+		margin-right: auto; 
+		margin-left: auto; 
+		display: block; 
+		clear: both; 
+	}
+			
+} /* end .entry-content */
+
+/*********************
+SIDEBARS & ASIDES
+*********************/
+
+.widget {
+	padding: 0 10px;
+	margin: 2.2em 0;
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+	
+/*
+check your menus here. do they look good?
+do they need tweaking?
+*/
+.footer-links {
+	ul {
+		li {}
+	}
+} /* end .footer-links */
+			
+/*********************
+FOUNDATION STYLES
+*********************/
+
+/*********************
+PLUGIN STYLES
+*********************/
