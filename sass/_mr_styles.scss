@@ -1,13 +1,24 @@
+
+/*use small medium large stylesheets if possible */
+
+
 body {
-background: #e6e6e6;
-color: #444;
+background: #f0f url(/wp-content/themes/michaelrussell/images/bk.png);
 }
 
 #container {
 width: 100%;
-max-width: 62.5rem;
-margin: 10px auto;
+max-width: $row-width;
+margin: 40px auto;
 box-shadow: 0px 0px 6px 0px rgba(100, 100, 100, 0.3);
 background: #fff;
-padding: 1.5625rem 0.625rem 0;
+/* padding: 1.5625rem 0.625rem 0; */
+}
+
+/*--------
+TYPOGRAPHY
+----------*/
+
+h1,h2,h3,h4{
+letter-spacing:-1px;
 }
