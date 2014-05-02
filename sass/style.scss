@@ -8,7 +8,7 @@ and is called at the beginning, after that we call the rest
 of the styles inside media queries.
 ******************************************************************/
 
-@import "//fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700";
+@import "//fonts.googleapis.com/css?family=Lato:400,700";
 
 //
 // IMPORTING STYLES
@@ -21,7 +21,7 @@ of the styles inside media queries.
 @import "../../JointsWP/library/scss/mixins";
 
 // import foundation overrides
-@import "../../JointsWP/library/scss/settings";
+@import "settings";
 
 // Child theme foundation.scss
 @import "foundation";
@@ -40,7 +40,7 @@ the other stylesheets. Remember, keep it light: Speed is Important.
 */
 
 // styles in small.scss
-@import "../../JointsWP/library/scss/small";
+@import "small";
 
 
 /*
@@ -49,7 +49,7 @@ MEDIUM
 @media only screen and (min-width: 40.063em) {
 
 	// styles in medium.scss
-	@import "../../JointsWP/library/scss/medium";
+	@import "medium";
 	
 	//quick temporary fix to hide name on menu for wide browsers
 	.top-bar li.name {display:none}
@@ -65,7 +65,7 @@ you can add resource intensive styles.
 @media only screen and (min-width: 64.063em) {
 
 	// styles in large.scss
-	@import "../../JointsWP/library/scss/large";
+	@import "large";
 
 } // end of media query
 
@@ -75,7 +75,7 @@ XLARGE
 @media only screen and (min-width: 90.063em) {
 
 	// styles in xlarge.scss
-	@import "../../JointsWP/library/scss/xlarge";
+	@import "xlarge";
 
 } // end of media query
 
@@ -85,7 +85,7 @@ XXLARGE
 @media only screen and (min-width: 120.063em) {
 
 	// styles in xxlarge.scss
-	@import "../../JointsWP/library/scss/xxlarge";
+	@import "xxlarge";
 
 } // end of media query
 
@@ -100,7 +100,7 @@ query for retina AND a certain size if you want. Go Nuts.
        only screen and (min-device-pixel-ratio: 1.5) {
 
 	// styles in 2x.scss
-	@import "../../JointsWP/library/scss/2x";
+	@import "2x";
 
 } // end of media query
 
@@ -121,5 +121,5 @@ sense to print at the bottom. Things like nav, ads, and forms should
 be set to display none.
 */
 @media print {
-	@import "../../JointsWP/library/scss/print";
+	@import "print";
 }
