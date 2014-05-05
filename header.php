@@ -44,20 +44,19 @@
 
 				<header class="header" role="banner">
 
-					<div id="inner-header" class="row">
-						<div class="large-12 columns">
-							<h1>
-								<a href="<?php echo home_url(); ?>" rel="nofollow">
-									<?php bloginfo('name'); ?>
-								</a>
-								<small>
-									<?php  bloginfo('description'); ?>
-								</small>
-							</h1>
+					<div id="inner-header">
+						<div class="branding row">
+							<div class="large-6 columns logo">
+								<img src="/wp-content/themes/michaelrussell/images/logo.png" width="355" height="67">
+							</div>
+							<div class="large-6 columns strapline large-text-right">
+							<h4>Direct Payment &amp; Payroll Specialists</h4>
+							</div>
 						</div>
-						
-						<div class="large-12 columns pic-row">
-							<img src="/wp-content/themes/michaelrussell/images/picture-row.jpg" width="980" height="170">
+						<div class="row">
+							<div class="large-12 columns pic-row">
+								<img src="/wp-content/themes/michaelrussell/images/picture-row.jpg" width="980" height="170">
+							</div>
 						</div>
 
 						 <?php get_template_part( 'partials/nav', 'offcanvas' ); ?>

@@ -4,7 +4,6 @@
 						
 							<div class="large-12 medium-12 columns">
 								<nav role="navigation">
-								<p>&nbsp;</p>
 								<p>A consistent footer with contact information and logos of membership organisations</p>
 		    						<?php joints_footer_links(); ?>
 		    					</nav>
