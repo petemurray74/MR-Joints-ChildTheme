@@ -12,7 +12,7 @@ and will be used across all viewports.
 /*********************
 GENERAL STYLES
 *********************/
-body {background: #666 url(/wp-content/themes/michaelrussell/images/bk.png);}
+body {background: #666 url(../../../michaelrussell/images/bk.png);}
 
 /********************
 WORDPRESS BODY CLASSES
@@ -141,7 +141,7 @@ HEADER STYLES
 		{
 		margin:20px 0px;
 			h4{
-			font-weight:700;
+			font-weight:$bold-weight;
 			}
 		}
 		
@@ -447,7 +447,7 @@ COMMENT STYLES
 		margin-left: 50px;
 
 		cite.fn {
-			font-weight: 700;
+			font-weight: $bold-weight;
 			font-style: normal;
 
 			a.url {}
