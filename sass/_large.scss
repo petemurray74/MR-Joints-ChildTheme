@@ -25,10 +25,14 @@ LAYOUT & GRID STYLES
 HEADER STYLES
 *********************/
 
-.header {}
-
-	#logo {}
-
+.header {
+		.strapline
+		{
+		margin-top:66px;
+		margin-bottom:10px;
+		}
+}	
+	
 /*********************
 NAVIGATION STYLES
 *********************/
