@@ -12,7 +12,7 @@ and will be used across all viewports.
 /*********************
 GENERAL STYLES
 *********************/
-body {}
+body {background: #666 url(/wp-content/themes/michaelrussell/images/bk.png);}
 
 /********************
 WORDPRESS BODY CLASSES
@@ -129,12 +129,22 @@ HEADER STYLES
 *********************/
 
 .header {
-	margin-bottom: 20px;
 		#inner-header {
 			li {
 				list-style: none;
 			}
 		}
+		.logo {
+		margin: 30px 0px;
+		}
+		.strapline
+		{
+		margin:20px 0px;
+			h4{
+			font-weight:700;
+			}
+		}
+		
 }
     
 /*********************
@@ -169,6 +179,9 @@ POSTS & CONTENT STYLES
 	a:hover, a:focus {
 		background: $primary-color;
 		color: #fff;
+	}
+	#main {
+	margin-top:18px;
 	}
 }
 
@@ -645,6 +658,7 @@ FOOTER STYLES
 	margin-top: 1em;
 	background:$primary-color;
 	color:$primary-color-lighter;
+	padding-top:30px;
 }
 
 	/*
