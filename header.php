@@ -47,7 +47,7 @@
 					<div id="inner-header">
 						<div class="branding row">
 							<div class="large-6 columns logo">
-								<img src="/wp-content/themes/michaelrussell/images/logo.png" width="355" height="67">
+								<img src="<?php echo get_stylesheet_directory_uri() ?>/images/logo.png" width="355" height="67">
 							</div>
 							<div class="large-6 columns strapline large-text-right">
 							<h4>Direct Payment &amp; Payroll Specialists</h4>
@@ -55,7 +55,7 @@
 						</div>
 						<div class="row">
 							<div class="large-12 columns pic-row">
-								<img src="/wp-content/themes/michaelrussell/images/picture-row.jpg" width="980" height="170">
+								<img src="<?php echo get_stylesheet_directory_uri() ?>/images/picture-row.jpg" width="980" height="170">
 							</div>
 						</div>
 
