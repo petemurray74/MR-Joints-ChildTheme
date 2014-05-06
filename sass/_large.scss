@@ -2,7 +2,7 @@
 
 Stylesheet: Large Stylesheet
 
-Styles apply to 64.063em and up.
+Styles apply to 64.063em and up. >1024
 
 ******************************************************************/
 
@@ -24,13 +24,13 @@ LAYOUT & GRID STYLES
 /*********************
 HEADER STYLES
 *********************/
-
 .header {
 		.strapline
 		{
-		margin-top:66px;
-		margin-bottom:10px;
+		h4{
+		font-size:rem-calc(23);
 		}
+	}
 }	
 	
 /*********************

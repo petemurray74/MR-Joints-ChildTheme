@@ -46,10 +46,10 @@
 
 					<div id="inner-header">
 						<div class="branding row">
-							<div class="large-6 columns logo">
+							<div class="medium-6 columns logo">
 								<img src="<?php echo get_stylesheet_directory_uri() ?>/images/logo.png" width="355" height="67">
 							</div>
-							<div class="large-6 columns strapline large-text-right">
+							<div class="medium-6 columns strapline medium-text-right">
 							<h4>Direct Payment &amp; Payroll Specialists</h4>
 							</div>
 						</div>

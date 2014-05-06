@@ -2,7 +2,7 @@
 
 Stylesheet: Nediun Stylesheet
 
-Styles apply to 40.063em and up.
+Styles apply to 40.063em and up. >640
 
 ******************************************************************/
 
@@ -11,9 +11,21 @@ Styles apply to 40.063em and up.
 HEADER STYLES
 *********************/
 
-.pic-row
-{
-padding:0;
+
+
+.header {
+		.strapline
+		{
+		margin-top:66px;
+		margin-bottom:20px;
+		h4{
+		font-size:rem-calc(19);
+		}
+		}
+		.pic-row
+		{
+		padding:0;
+		}
 }
 
 	
