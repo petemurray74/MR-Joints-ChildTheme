@@ -116,3 +116,170 @@ Load paths:
 2014-03-27 20:12:23    remove ../JointsWP/library/css/style.css 
 2014-03-27 20:12:28    create ../JointsWP/library/css/style.css 
 2014-03-27 21:11:26 overwrite ../JointsWP/library/css/style.css 
+2014-04-11 17:07:14 identical ../JointsWP/library/css/style.css 
+2014-04-11 17:08:07 overwrite ../JointsWP/library/css/style.css 
+2014-04-11 17:08:16 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:13:06     error sass/style.scss (Line 13 of sass/_settings.scss: File to import not found or unreadable: ../../bower_components/foundation/scss/foundation/functions.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets
+  C:/Program Files/vendor/assets/stylesheets)
+2014-05-01 14:13:06 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:13:57     error sass/style.scss (Line 13 of sass/_settings.scss: File to import not found or unreadable: ../../bower_components/foundation/scss/foundation/functions.
+Load paths:
+  E:/my docs/web_server/michaelrussell.org.uk/wp-content/themes/michaelrussell/sass
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets
+  C:/Program Files/vendor/assets/stylesheets)
+2014-05-01 14:13:57 identical ../JointsWP/library/css/style.css 
+2014-05-01 14:14:51 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:15:17 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:15:27 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:15:40 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:24:36 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:25:26 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:25:44 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:26:12 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:26:16 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:26:29 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:26:37 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:35:35 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:44:08 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:44:35 identical ../JointsWP/library/css/style.css 
+2014-05-01 14:44:43 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 14:57:47 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:00:55 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:01:26 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:12:59 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:17:10 identical ../JointsWP/library/css/style.css 
+2014-05-01 15:17:17 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:18:50 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:20:59 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 15:27:40 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:28:03 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:28:33 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:28:53 identical ../JointsWP/library/css/style.css 
+2014-05-01 16:29:01 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:29:33 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:31:23 identical ../JointsWP/library/css/style.css 
+2014-05-01 16:31:46 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:32:47 identical ../JointsWP/library/css/style.css 
+2014-05-01 16:32:58     error sass/style.scss (Line 1158 of sass/_settings.scss: Undefined variable: "$primary-color".)
+2014-05-01 16:32:58 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:33:17 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:33:43 identical ../JointsWP/library/css/style.css 
+2014-05-01 16:34:04 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:34:39 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:35:41 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:36:37 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:39:24     error sass/style.scss (Line 1159 of sass/_settings.scss: Undefined variable: "$f0f".)
+2014-05-01 16:39:24 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:39:53 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:40:27 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:41:23 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:41:58 identical ../JointsWP/library/css/style.css 
+2014-05-01 16:42:06 identical ../JointsWP/library/css/style.css 
+2014-05-01 16:42:35 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:44:53 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:45:37 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:46:13     error sass/style.scss (Line 123 of sass/_settings.scss: Undefined variable: "$primary-colour".)
+2014-05-01 16:46:13 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:46:23 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:54:19 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:56:20 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:57:32 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:57:45 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 16:58:51 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:00:30 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:00:34 identical ../JointsWP/library/css/style.css 
+2014-05-01 17:03:44 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:04:34 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:04:48 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:15:52 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:33:01     error sass/style.scss (Line 2 of sass/_mr_styles.scss: Invalid CSS after "background ": expected "{", was "(#f0f url(\wp-c...")
+2014-05-01 17:33:01 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:33:43 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:35:14 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:35:34 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 17:36:03 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:27:40 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:30:50 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:33:31 identical ../JointsWP/library/css/style.css 
+2014-05-01 22:33:50 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:34:42 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:35:55 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:36:05 overwrite ../JointsWP/library/css/style.css 
+2014-05-01 22:36:18 overwrite ../JointsWP/library/css/style.css 
+2014-05-02 08:15:13 overwrite ../JointsWP/library/css/style.css 
+2014-05-02 08:15:24 overwrite ../JointsWP/library/css/style.css 
+2014-05-02 08:15:37 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:10:22 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:11:11 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:11:31 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:13:30 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:15:47 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:25:23 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:26:29 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:26:44 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:27:03 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:28:01 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:28:54 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:36:53 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:37:03 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:40:58 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:45:15 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:48:55 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:49:56 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:51:10 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:51:35 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:52:53 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:53:35 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 17:55:14 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 20:50:20 overwrite ../JointsWP/library/css/style.css 
+2014-05-05 20:50:52 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:09:39 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:09:44 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:10:27 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:10:30 identical ../JointsWP/library/css/style.css 
+2014-05-06 20:12:56 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:18:29     error sass/style.scss (Line 145 of sass/_small.scss: Undefined variable: "$rem-calc".)
+2014-05-06 20:18:29 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:19:09 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:19:45 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:20:37 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:21:05 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:27:27 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:29:36 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:29:57 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:30:57 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:31:25 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:31:53 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:34:02 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:34:27 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:34:33 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:34:38 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:35:07 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:35:17 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:35:48 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:46:26 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:49:26 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:52:08 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:52:12 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:53:02 overwrite ../JointsWP/library/css/style.css 
+2014-05-06 20:54:05 overwrite ../JointsWP/library/css/style.css 
+2014-05-08 15:16:00 overwrite library/css/style.css 

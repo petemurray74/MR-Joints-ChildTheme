@@ -9,7 +9,7 @@
 http_path = "/"
 
 # 2. probably don't need to touch these
-css_dir = "../JointsWP/library/css"
+css_dir = "library/css"
 sass_dir = "sass"
 images_dir = "../images"
 javascripts_dir = "../js"
