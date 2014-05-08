@@ -20,6 +20,10 @@ of the styles inside media queries.
 // import mixins
 @import "../../JointsWP/library/scss/mixins";
 
+//import foundation icons 
+//there wasn't a sass for this
+@import "foundation-icons";
+
 // import foundation overrides
 @import "settings";
 
