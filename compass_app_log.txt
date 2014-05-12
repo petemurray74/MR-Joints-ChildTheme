@@ -283,3 +283,12 @@ Load paths:
 2014-05-06 20:53:02 overwrite ../JointsWP/library/css/style.css 
 2014-05-06 20:54:05 overwrite ../JointsWP/library/css/style.css 
 2014-05-08 15:16:00 overwrite library/css/style.css 
+2014-05-08 16:47:06    create library/css/foundation-icons.css 
+2014-05-08 16:47:09 identical library/css/style.css 
+2014-05-08 16:49:51     error sass/style.scss (Line 25: Invalid CSS after "@import ": expected file to import (string or url()), was "foundation-icons")
+2014-05-08 16:49:51 overwrite library/css/style.css 
+2014-05-08 16:50:08 overwrite library/css/style.css 
+2014-05-08 16:50:23 identical library/css/style.css 
+2014-05-08 16:51:44 overwrite library/css/style.css 
+2014-05-08 16:53:08 overwrite library/css/style.css 
+2014-05-08 16:53:38 identical library/css/style.css 
