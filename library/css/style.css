@@ -2545,31 +2545,6 @@ label.error { color: #f04124; }
 /* line 101, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_labels.scss */
 .label.secondary { background-color: #e7e7e7; color: #333333; }
 
-/* line 137, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination { display: block; height: 1.5rem; margin-left: -0.3125rem; }
-/* line 100, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li { height: 1.5rem; color: #222222; font-size: 0.875rem; margin-left: 0.3125rem; }
-/* line 106, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li a { display: block; padding: 0.0625rem 0.625rem 0.0625rem; color: #999999; -webkit-border-radius: 3px; border-radius: 3px; }
-/* line 114, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li:hover a, ul.pagination li a:focus { background: #e6e6e6; }
-/* line 51, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li.unavailable a { cursor: default; color: #999999; }
-/* line 56, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li.unavailable:hover a, ul.pagination li.unavailable a:focus { background: transparent; }
-/* line 64, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li.current a { background: #257f7d; color: white; font-weight: bold; cursor: default; }
-/* line 71, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li.current a:hover, ul.pagination li.current a:focus { background: #257f7d; }
-/* line 124, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-ul.pagination li { float: left; display: block; }
-
-/* Pagination centred wrapper */
-/* line 142, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-.pagination-centered { text-align: center; }
-/* line 124, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_pagination.scss */
-.pagination-centered ul.pagination li { float: none; display: inline-block; }
-
 /* Panels */
 /* line 74, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_panels.scss */
 .panel { border-style: solid; border-width: 1px; border-color: #d8d8d8; margin-bottom: 1.25rem; padding: 1.25rem; background: #f2f2f2; }
@@ -2613,21 +2588,6 @@ ul.pagination li { float: left; display: block; }
 /* line 79, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_side-nav.scss */
 .side-nav li.divider { border-top: 1px solid; height: 0; padding: 0; list-style: none; border-top-color: white; }
 
-/* line 123, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav { display: block; width: auto; overflow: hidden; margin: -0.25rem 0 1.125rem; padding-top: 0.25rem; margin-right: 0; margin-left: -0.75rem; }
-/* line 69, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav dt { text-transform: uppercase; }
-/* line 75, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav dt, .sub-nav dd, .sub-nav li { float: left; display: inline; margin-left: 1rem; margin-bottom: 0.625rem; font-family: "Lato", Arial, sans-serif; font-weight: normal; font-size: 0.875rem; color: #999999; }
-/* line 85, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav dt a, .sub-nav dd a, .sub-nav li a { text-decoration: none; color: #999999; padding: 0.1875rem 1rem; }
-/* line 89, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav dt a:hover, .sub-nav dd a:hover, .sub-nav li a:hover { color: #737373; }
-/* line 94, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav dt.active a, .sub-nav dd.active a, .sub-nav li.active a { -webkit-border-radius: 3px; border-radius: 3px; font-weight: normal; background: #257f7d; padding: 0.1875rem 1rem; cursor: default; color: white; }
-/* line 101, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_sub-nav.scss */
-.sub-nav dt.active a:hover, .sub-nav dd.active a:hover, .sub-nav li.active a:hover { background: #206d6c; }
-
 /* line 93, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tables.scss */
 table { background: white; margin-bottom: 1.25rem; border: solid 1px #dddddd; }
 /* line 55, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tables.scss */
@@ -2640,51 +2600,6 @@ table tr th, table tr td { padding: 0.5625rem 0.625rem; font-size: 0.875rem; col
 table tr.even, table tr.alt, table tr:nth-of-type(even) { background: #f9f9f9; }
 /* line 87, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tables.scss */
 table thead tr th, table tfoot tr th, table tbody tr td, table tr td, table tfoot tr td { display: table-cell; line-height: 1.125rem; }
-
-/* line 29, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs { *zoom: 1; margin-bottom: 0 !important; }
-/* line 145, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_global.scss */
-.tabs:before, .tabs:after { content: " "; display: table; }
-/* line 146, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_global.scss */
-.tabs:after { clear: both; }
-/* line 32, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs dd { position: relative; margin-bottom: 0 !important; float: left; }
-/* line 36, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs dd > a { display: block; background: #efefef; color: #222222; padding: 1rem 2rem; font-family: "Lato", Arial, sans-serif; font-size: 1rem; }
-/* line 43, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs dd > a:hover { background: #e1e1e1; }
-/* line 45, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs dd.active a { background: white; }
-/* line 49, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs.radius dd:first-child a { -moz-border-radius-bottomleft: 3px; -moz-border-radius-topleft: 3px; -webkit-border-bottom-left-radius: 3px; -webkit-border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-left-radius: 3px; }
-/* line 52, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs.radius dd:last-child a { -moz-border-radius-bottomright: 3px; -moz-border-radius-topright: 3px; -webkit-border-bottom-right-radius: 3px; -webkit-border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-top-right-radius: 3px; }
-/* line 56, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs.vertical dd { position: inherit; float: none; display: block; top: auto; }
-
-/* line 65, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs-content { *zoom: 1; margin-bottom: 1.5rem; width: 100%; }
-/* line 145, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_global.scss */
-.tabs-content:before, .tabs-content:after { content: " "; display: table; }
-/* line 146, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_global.scss */
-.tabs-content:after { clear: both; }
-/* line 69, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs-content > .content { display: none; float: left; padding: 1.875rem 0; width: 100%; }
-/* line 74, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs-content > .content.active { display: block; float: none; }
-/* line 75, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs-content > .content.contained { padding: 1.875rem; }
-/* line 77, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs-content.vertical { display: block; }
-/* line 79, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.tabs-content.vertical > .content { padding: 0 1.875rem; }
-
-@media only screen and (min-width: 40.063em) { /* line 84, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-  .tabs.vertical { width: 20%; float: left; margin-bottom: 1.25rem; }
-  /* line 91, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-  .tabs-content.vertical { width: 80%; float: left; margin-left: -1px; } }
-/* line 99, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_tabs.scss */
-.no-js .tabs-content > .content { display: block; float: none; }
 
 /* line 102, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_top-bar.scss */
 meta.foundation-mq-topbar { font-family: "/only screen and (min-width:40.063em)/"; width: 40.063em; }
@@ -3609,8 +3524,9 @@ th.hide-for-touch { display: table-cell !important; }
 .touch th.show-for-touch { display: table-cell !important; }
 
   /* STUFF I'VE DISABLED "../../JointsWP/bower_components/foundation/scss/foundation/components/accordion", "../../JointsWP/bower_components/foundation/scss/foundation/components/alert-boxes", "../../JointsWP/bower_components/foundation/scss/foundation/components/breadcrumbs", "../../JointsWP/bower_components/foundation/scss/foundation/components/button-groups", "../../JointsWP/bower_components/foundation/scss/foundation/components/buttons", "../../JointsWP/bower_components/foundation/scss/foundation/components/clearing", "../../JointsWP/bower_components/foundation/scss/foundation/components/dropdown", "../../JointsWP/bower_components/foundation/scss/foundation/components/dropdown-buttons", "../../JointsWP/bower_components/foundation/scss/foundation/components/flex-video", "../../JointsWP/bower_components/foundation/scss/foundation/components/joyride", "../../JointsWP/bower_components/foundation/scss/foundation/components/keystrokes",
-	  "../../JointsWP/bower_components/foundation/scss/foundation/components/magellan", "../../JointsWP/bower_components/foundation/scss/foundation/components/orbit", "../../JointsWP/bower_components/foundation/scss/foundation/components/pricing-tables", "../../JointsWP/bower_components/foundation/scss/foundation/components/progress-bars", "../../JointsWP/bower_components/foundation/scss/foundation/components/range-slider", "../../JointsWP/bower_components/foundation/scss/foundation/components/reveal", "../../JointsWP/bower_components/foundation/scss/foundation/components/split-buttons",
-	  "../../JointsWP/bower_components/foundation/scss/foundation/components/tabs", "../../JointsWP/bower_components/foundation/scss/foundation/components/thumbs", "../../JointsWP/bower_components/foundation/scss/foundation/components/tooltips", "../../JointsWP/bower_components/foundation/scss/foundation/components/switch", */
+	  "../../JointsWP/bower_components/foundation/scss/foundation/components/magellan", "../../JointsWP/bower_components/foundation/scss/foundation/components/orbit", "../../JointsWP/bower_components/foundation/scss/foundation/components/pagination", "../../JointsWP/bower_components/foundation/scss/foundation/components/pricing-tables", "../../JointsWP/bower_components/foundation/scss/foundation/components/progress-bars", "../../JointsWP/bower_components/foundation/scss/foundation/components/range-slider", "../../JointsWP/bower_components/foundation/scss/foundation/components/reveal", "../../JointsWP/bower_components/foundation/scss/foundation/components/split-buttons",
+	  "../../JointsWP/bower_components/foundation/scss/foundation/components/sub-nav",
+	"../../JointsWP/bower_components/foundation/scss/foundation/components/tabs", "../../JointsWP/bower_components/foundation/scss/foundation/components/thumbs", "../../JointsWP/bower_components/foundation/scss/foundation/components/tooltips", "../../JointsWP/bower_components/foundation/scss/foundation/components/switch", */
 /* line 58, ../../../JointsWP/library/scss/joints/_gallery.scss */
 [class*="gallery-columns-"] { display: block; padding: 0; margin: 0 -1.875rem; *zoom: 1; }
 /* line 145, ../../../JointsWP/bower_components/foundation/scss/foundation/components/_global.scss */
