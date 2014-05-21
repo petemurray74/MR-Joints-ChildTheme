@@ -122,7 +122,7 @@ $primary-color-lighter:#afd0cf;
 // $header-font-weight: normal;
 // $header-font-style: normal;
 $header-font-color: $primary-color;
-// $header-line-height: 1.4;
+$header-line-height: 1.2;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
 // $header-text-rendering: optimizeLegibility;
@@ -317,8 +317,8 @@ $paragraph-line-height: 1.4;
 // $include-html-button-classes: $include-html-classes;
 
 // We use these to build padding for buttons.
-// $button-tny: rem-calc(10);
-// $button-sml: rem-calc(14);
+// $button-tny: rem-calc(11);
+$button-sml: rem-calc(13);
 // $button-med: rem-calc(16);
 // $button-lrg: rem-calc(18);
 
