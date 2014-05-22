@@ -292,3 +292,63 @@ Load paths:
 2014-05-08 16:51:44 overwrite library/css/style.css 
 2014-05-08 16:53:08 overwrite library/css/style.css 
 2014-05-08 16:53:38 identical library/css/style.css 
+2014-05-15 15:21:23 overwrite library/css/style.css 
+2014-05-15 15:22:18 identical library/css/style.css 
+2014-05-15 17:32:20 overwrite library/css/style.css 
+2014-05-15 17:34:37 identical library/css/style.css 
+2014-05-15 17:35:21 overwrite library/css/style.css 
+2014-05-15 17:49:36 overwrite library/css/style.css 
+2014-05-15 17:51:23 overwrite library/css/style.css 
+2014-05-15 21:31:32 overwrite library/css/style.css 
+2014-05-15 21:32:00 overwrite library/css/style.css 
+2014-05-15 21:36:36     error sass/style.scss (Line 355 of sass/_small.scss: Invalid CSS after "text-shadow": expected ";", was ": 1px 1px 3px #...")
+2014-05-15 21:36:36 overwrite library/css/style.css 
+2014-05-15 21:36:44 overwrite library/css/style.css 
+2014-05-15 21:39:43 overwrite library/css/style.css 
+2014-05-15 21:52:08     error sass/style.scss (Line 82 of sass/_medium.scss: Undefined variable: "$primiary-color".)
+2014-05-15 21:52:08 overwrite library/css/style.css 
+2014-05-15 21:52:41 overwrite library/css/style.css 
+2014-05-15 21:54:11 overwrite library/css/style.css 
+2014-05-15 21:56:07 overwrite library/css/style.css 
+2014-05-15 21:56:41 overwrite library/css/style.css 
+2014-05-15 21:57:49 overwrite library/css/style.css 
+2014-05-15 22:00:49 overwrite library/css/style.css 
+2014-05-15 22:03:46 overwrite library/css/style.css 
+2014-05-15 22:04:05 overwrite library/css/style.css 
+2014-05-15 22:06:49 overwrite library/css/style.css 
+2014-05-15 22:08:41 overwrite library/css/style.css 
+2014-05-16 08:58:44 overwrite library/css/style.css 
+2014-05-16 09:10:24     error sass/style.scss (Line 393 of sass/_small.scss: Undefined variable: "$mid_grey".)
+2014-05-16 09:10:24 overwrite library/css/style.css 
+2014-05-16 09:10:36     error sass/style.scss (Line 393 of sass/_small.scss: Undefined variable: "$mid_grey".)
+2014-05-16 09:10:36 identical library/css/style.css 
+2014-05-16 09:11:02     error sass/style.scss (Line 393 of sass/_small.scss: Undefined variable: "$mid_grey".)
+2014-05-16 09:11:02 identical library/css/style.css 
+2014-05-16 09:11:30     error sass/style.scss (Line 393 of sass/_small.scss: Undefined variable: "$mid_grey".)
+2014-05-16 09:11:30 identical library/css/style.css 
+2014-05-16 09:11:59     error sass/style.scss (Line 393 of sass/_small.scss: Undefined variable: "$mid_grey".)
+2014-05-16 09:11:59 identical library/css/style.css 
+2014-05-16 09:13:14 overwrite library/css/style.css 
+2014-05-16 09:13:25 identical library/css/style.css 
+2014-05-16 09:14:32     error sass/style.scss (Line 393 of sass/_small.scss: Invalid CSS after "	color": expected ";", was ":$mid_grey;")
+2014-05-16 09:14:32 overwrite library/css/style.css 
+2014-05-16 09:14:40 overwrite library/css/style.css 
+2014-05-16 09:19:17 overwrite library/css/style.css 
+2014-05-16 09:43:30 overwrite library/css/style.css 
+2014-05-16 09:44:28 overwrite library/css/style.css 
+2014-05-16 09:46:17 overwrite library/css/style.css 
+2014-05-16 09:47:28 overwrite library/css/style.css 
+2014-05-16 09:48:44 identical library/css/style.css 
+2014-05-16 09:49:19 overwrite library/css/style.css 
+2014-05-21 21:02:37 overwrite library/css/style.css 
+2014-05-21 21:04:52    remove .sass-cache/ 
+2014-05-21 21:04:52    remove library/css/style.css 
+2014-05-21 21:04:59    create library/css/style.css 
+2014-05-21 21:25:37 overwrite library/css/style.css 
+2014-05-21 21:43:46 overwrite library/css/style.css 
+2014-05-22 20:11:44    remove .sass-cache/ 
+2014-05-22 20:11:44    remove library/css/style.css 
+2014-05-22 20:11:51    create library/css/style.css 
+2014-05-22 20:12:00    remove .sass-cache/ 
+2014-05-22 20:12:00    remove library/css/style.css 
+2014-05-22 20:12:05    create library/css/style.css 
