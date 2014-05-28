@@ -16,3 +16,7 @@
 	// add retina image support
 	require_once(get_stylesheet_directory().'/library/retina2x.php'); 
 	
+	//stop styles being added again
+    remove_action('wp_enqueue_scripts', 'osc_add_frontend_efs_scripts',-100);
+    remove_action('wp_enqueue_scripts', 'efs_osc_add_dynamic_css',100);
+	
