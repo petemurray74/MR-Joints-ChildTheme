@@ -772,7 +772,7 @@ $button-sml: rem-calc(13);
 // $panel-border-size: 1px;
 
 // We use this % to control how much we darken things on hover
-// $panel-function-factor: -11%;
+$panel-function-factor: -5%;
 // $panel-border-color: scale-color($panel-bg, $lightness: $panel-function-factor);
 
 // We use these to set default inner padding and bottom margin
