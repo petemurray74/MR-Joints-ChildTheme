@@ -127,6 +127,11 @@ h5, .h5 {
 
 }
 
+.smaller {
+font-size:80%;
+}
+
+
 /*********************
 HEADER STYLES
 *********************/
@@ -434,7 +439,7 @@ FOOTER STYLES
 	color:$primary-color-lighter;
 	padding-top:30px;
 		.icpa-logo {
-		margin-bottom:5px
+		margin-bottom:12px
 		}
 	}
 

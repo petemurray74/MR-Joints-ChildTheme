@@ -17,7 +17,7 @@
 		    				</div>
 							<div class="large-7 medium-7 columns">
 							<p><img class="icpa-logo" src="<?php echo $mr_stylesheet_dir;?>/images/icpa-logo.png"><br>
-							An Independent Certified Practising Accountant
+							<span class="smaller">An Independent Certified Practising Accountant</span>
 							</p>
 							</div>
 			               
