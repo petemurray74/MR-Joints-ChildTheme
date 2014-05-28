@@ -1,5 +1,8 @@
 <?php
 
+// use the same path everywhere
+$mr_stylesheet_dir = get_stylesheet_directory_uri();
+
 // put css all in one place in child
 	add_action('wp_enqueue_scripts', 'mr_scripts_and_styles', 1000);
 	function mr_scripts_and_styles()  {

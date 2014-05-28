@@ -1,10 +1,10 @@
+<?php global $mr_stylesheet_dir; ?>
 <!doctype html>
 
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" <?php language_attributes(); ?>> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" <?php language_attributes(); ?>> <![endif]-->
 <!--[if IE 8]>    <html class="no-js lt-ie9" <?php language_attributes(); ?>> <![endif]-->
 <!--[if gt IE 8]><!--> <html <?php language_attributes(); ?>> <!--<![endif]-->
-
 	<head>
 		<meta charset="utf-8">
 
@@ -19,12 +19,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 		<!-- icons & favicons -->
-		<link rel="icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/favicon.ico">
+		<link rel="icon" href="<?php echo $mr_stylesheet_dir; ?>/images/favicon.ico">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/favicon.ico">
+			<link rel="shortcut icon" href="<?php echo $mr_stylesheet_dir; ?>/images/favicon.ico">
 		<![endif]-->
 		<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="<?php echo get_stylesheet_directory_uri(); ?>/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="<?php echo $mr_stylesheet_dir; ?>/images/win8-tile-icon.png">
 
   	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
@@ -56,7 +56,7 @@
 					<div id="inner-header">
 						<div class="branding row">
 							<div class="medium-6 columns logo">
-								<img src="<?php echo get_stylesheet_directory_uri() ?>/images/logo.png" width="355" height="67">
+								<img src="<?php echo $mr_stylesheet_dir ?>/images/logo.png" width="355" height="67">
 							</div>
 							<div class="medium-6 columns strapline medium-text-right">
 							<h4>Direct Payment &amp; Payroll Specialists</h4>
@@ -64,7 +64,7 @@
 						</div>
 						<div class="row">
 							<div class="large-12 columns pic-row">
-								<img src="<?php echo get_stylesheet_directory_uri() ?>/images/picture-row.jpg" width="980" height="170">
+								<img src="<?php echo $mr_stylesheet_dir ?>/images/picture-row.jpg" width="980" height="170">
 							</div>
 						</div>
 
