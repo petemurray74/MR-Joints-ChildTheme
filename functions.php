@@ -24,12 +24,12 @@ remove_action('wp_enqueue_scripts', 'osc_add_frontend_efs_scripts',-100);
 remove_action('wp_enqueue_scripts', 'efs_osc_add_dynamic_css',100);
 
 // creates [email] shortcode
-function ea_email_encode_function( $atts, $content = null ) {
+function mr_email_encode_function( $atts, $content = null ) {
      extract( shortcode_atts( array(
           'address' => 'email',
      ), $atts ) );
-
+	if ($content == null) {$content=$address;}
      return '<a href="mailto:' . antispambot(esc_attr($address)) . '">' . $content . '</a>';
 }
-add_shortcode('email', 'ea_email_encode_function');
+add_shortcode('email', 'mr_email_encode_function');
 	
