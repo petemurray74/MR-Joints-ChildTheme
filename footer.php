@@ -11,7 +11,7 @@
 								<p>
 								Tel: 0161 773 6194<br>
 								Fax: 0161 773 6194<br>
-								Email: c.hurst@michaelrusselltrafford.co.uk<br>
+								Email: <?php echo antispambot('churst@michaelrussell.org.uk'); ?><br>
 								</p>
 		    						<?php //joints_footer_links(); ?>
 		    				</div>
