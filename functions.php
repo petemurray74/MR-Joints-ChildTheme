@@ -32,4 +32,8 @@ function mr_email_encode_function( $atts, $content = null ) {
      return '<a href="mailto:' . antispambot(esc_attr($address)) . '">' . $content . '</a>';
 }
 add_shortcode('email', 'mr_email_encode_function');
+
+//alow shortcodes in widgets
+if (!is_admin())
+{add_filter('widget_text', 'do_shortcode');}
 	
