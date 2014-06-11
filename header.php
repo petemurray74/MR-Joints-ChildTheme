@@ -41,7 +41,7 @@
 		  ga('send', 'pageview');
 
 		</script>
-		<!-- end analytics -->
+		<!-- end analytics  -->
 
 	</head>
 
