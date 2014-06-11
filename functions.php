@@ -36,4 +36,43 @@ add_shortcode('email', 'mr_email_encode_function');
 //alow shortcodes in widgets
 if (!is_admin())
 {add_filter('widget_text', 'do_shortcode');}
+
+/**
+ * Filters wp_title to print a neat <title> tag based on what is being viewed.
+ *
+ * @param string $title Default title text for current view.
+ * @param string $sep Optional separator.
+ * @return string The filtered title.
+ */
+function pm_better_wp_title( $title, $sep ) {
+	if ( is_feed() ) {
+		return $title;
+	}
+	
+	global $page, $paged;
+	
+	if ($override_title=get_post_meta( get_the_ID(), 'title', true ))
+	{$title=$override_title;}
+	else
+	{	
+		// Add the blog name
+		$blogName = get_bloginfo( 'name', 'display' );
+
+		// Add the blog description for the home/front page.
+		$site_description = get_bloginfo( 'description', 'display' );
+		if ( $site_description && ( is_home() || is_front_page() ) ) {
+			$title .= "$blogName $sep $site_description";
+		}
+		// Add a page number if necessary:
+		
+		else if ( ( $paged >= 2 || $page >= 2 ) && ! is_404() ) {
+			$title .= "$blogName $sep " . sprintf( __( 'Page %s', '_s' ), max( $paged, $page ) );
+		}
+		
+		else {$title .= $blogName;}
+	}
+	return $title;
+}
+add_filter( 'wp_title', 'pm_better_wp_title', 10, 2 );
+
 	
