@@ -72,4 +72,15 @@ function pm_better_wp_title( $title, $sep ) {
 }
 add_filter( 'wp_title', 'pm_better_wp_title', 10, 2 );
 
-	
+/**
+ * Adds a custom meta description, based on custom field : meta-description 
+ *
+ */
+
+function pm_meta_desc() {  
+   $meta_description="Direct Payment & Payroll Specialists. We aim to make the process of employing carers and assistants straightforward and hassle free";
+    if ($custom_meta_description=get_post_meta( get_the_ID(), 'meta-description', true ))
+    { $meta_description=$custom_meta_description; }
+    echo "<meta name='description' content='$meta_description' />"; 
+}  
+add_action('wp_head', 'pm_meta_desc');
