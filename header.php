@@ -25,7 +25,7 @@
 		<![endif]-->
 		<meta name="msapplication-TileColor" content="#f01d4f">
 		<meta name="msapplication-TileImage" content="<?php echo $mr_stylesheet_dir; ?>/images/win8-tile-icon.png">
-
+		<meta name="google-site-verification" content="1Lom9dnp6iNqMgkNDfd0q9OFJ4xW13uFUIhckbNRCp4" />
   	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
 		<?php wp_head(); ?>
