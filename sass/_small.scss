@@ -94,7 +94,7 @@ p {}
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	/*
-	if you're going to use webfonts, be sure to check your weights
+	if you're going to use webfonts, be sure To check your weights
 	http://css-tricks.com/watch-your-font-weight/
 	*/
 
@@ -105,7 +105,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-
+color: #444;
+letter-spacing: -1px;
+font-weight: bold;
+line-height: 110%;
+font-size:rem-calc(34);
 }
 
 h2, .h2 {
