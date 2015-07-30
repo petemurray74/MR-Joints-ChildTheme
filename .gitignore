@@ -219,3 +219,5 @@ compass_app_log.txt
 *.jpg
 *.png
 compass_app_log.txt
+prepros.cfg
+config.rb
